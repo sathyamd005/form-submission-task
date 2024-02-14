@@ -1,0 +1,69 @@
+body{
+    background-color:lavender;
+}
+.container{
+    margin: 30px 10px;
+}
+p{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.spacing{
+    margin: 3px 0px;
+}
+#firstname,#lastname,#line1,#line2,#pin,#state,#country{
+    margin-bottom: 15px;
+    width:330px;
+    height: 25px;
+}
+#male{
+    margin-right: 5px;
+    margin-bottom: 20px;
+}
+.text1{
+    margin-left: 10px;
+    margin-right: 5px;
+    margin-bottom: 20px;
+}
+.text2{
+    margin-right: 5px;
+    margin-bottom: 10px;
+}
+#north{
+    margin-top: 15px;
+}
+#sea{
+    margin-bottom: 15px;
+}
+#country{
+    margin-bottom: 30px;
+}
+span{
+    font-size: 13px;
+    font-family: cursive;
+}
+button{
+    width: 150px;
+    height: 30px;
+}
+.thead{
+    color:antiquewhite;
+    background-color: black;
+}
+.col-lg-3{
+    position: relative;
+}
+.col-lg-12{
+    position: absolute;
+    left:450px;
+}
+table{
+    text-align: center;
+    font-size: 12px;
+    justify-content: space-between;
+    width: 50%;
+}
+tr{
+    background-color: lavenderblush;
+}
